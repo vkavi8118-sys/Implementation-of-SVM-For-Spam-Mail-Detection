@@ -57,8 +57,13 @@ RegisterNumber: 212225230133
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+<img width="765" height="48" alt="image" src="https://github.com/user-attachments/assets/b0ddccc6-88ff-49c9-9b50-214d9394dc42" />
 
+<img width="447" height="278" alt="image" src="https://github.com/user-attachments/assets/87e0929d-cbbd-41ad-b1e2-cfca2d123b41" />
+
+<img width="220" height="303" alt="image" src="https://github.com/user-attachments/assets/3292314e-81aa-41d6-bbe3-9bc6445c5b00" />
+<img width="736" height="93" alt="image" src="https://github.com/user-attachments/assets/235f3db2-4175-4930-b8c7-db6f83a86932" />
+<img width="211" height="27" alt="image" src="https://github.com/user-attachments/assets/223a2463-1e4c-4599-b964-fb536079a517" />
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
